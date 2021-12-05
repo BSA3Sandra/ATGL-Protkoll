@@ -23,15 +23,43 @@ ICF-Classification:
 TEXT WAS IST Asterics grid
 
 ![](Images_Grid_SZ/01_Main_Grid.jpg)
-TEXT ZU BILD
+# TEXT ZU BILD
 ![](Images_Grid_SZ/02_MainSZ_Grid.jpg)
-TEXT ZU BILD
+# TEXT ZU BILD
 ![](Images_Grid_SZ/03_SZmediensteuerung_Grid.jpg)
-TEXT ZU BILD
+# TEXT ZU BILD
 ![](Images_Grid_SZ/04_LichtDimmenMain_Grid.jpg)
-TEXT ZU BILD
+# TEXT ZU BILD
 ![](Images_Grid_SZ/05_TemperaturMain_Grid.jpg)
-TEXT ZU BILD
+# TEXT ZU BILD
 
-## 
+## Eingabegerät - FABI
+### Beschreibung: FABI
+# HIER TEXT/BILD
+# HIER TEXT/BILD
+.
+.
+### Konfiguration
+# HIER TEXT/BILD
+# HIER TEXT/BILD
+### Anwendung
+# HIER TEXT/BILD
+
+## Accesibility
+# Kurzer Text
+
+### Farbeinstellungen
+# TEXT
+![](Images_Schlafzimmer/image0.jpeg)
+# TEXT
+![](Images_Schlafzimmer/image2.jpeg)
+# TEXT
+![](Images_Schlafzimmer/image3.jpeg)
+# TEXT
+![](Images_Schlafzimmer/image4.jpeg)
+# TEXT
+![](Images_Schlafzimmer/image5.jpeg)
+
+
+
 
