@@ -22,19 +22,16 @@ ICF-Classification:
 ## AsTeRICs Grid
 TEXT WAS IST Asterics grid
 
-![] (Images_Grid_SZ/01_Main_Grid.jpg)
+![](Images_Grid_SZ/01_Main_Grid.jpg)
 TEXT ZU BILD
-# BILD
+![](Images_Grid_SZ/02_MainSZ_Grid.jpg)
 TEXT ZU BILD
-# BILD
+![](Images_Grid_SZ/03_SZmediensteuerung_Grid.jpg)
 TEXT ZU BILD
-# BILD
+![](Images_Grid_SZ/04_LichtDimmenMain_Grid.jpg)
 TEXT ZU BILD
-# BILD
+![](Images_Grid_SZ/05_TemperaturMain_Grid.jpg)
 TEXT ZU BILD
-# BILD
-TEXT ZU BILD
-# BILD
 
 ## 
 
