@@ -3,6 +3,7 @@
 ## Use Case - Sandra
 #
 ### Aufgabenstellung
+TEXT
 #
 ### Klientin: Sandra
 Diese Klientin leidet an körperlichen Einschränkungen, die mit einer starken Seh- beeinträchtigung einhergeht. Des Weiteren kann sie Buchstaben nur in dreifacher Größe erkennen und benötigt aufgrund einer Rotsehschwäche (Protanopie) besondere Einstellungen am PC bzw. Laptop. Wir möchten versuchen, ihr mit den technischen Mitteln, die uns zur Verfügung stehen, zu helfen.
