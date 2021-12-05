@@ -22,7 +22,7 @@ ICF-Classification:
 ## AsTeRICs Grid
 TEXT WAS IST Asterics grid
 
-# BILD
+![] (Images_Grid_SZ/01_Main_Grid.jpg)
 TEXT ZU BILD
 # BILD
 TEXT ZU BILD
@@ -36,4 +36,5 @@ TEXT ZU BILD
 TEXT ZU BILD
 # BILD
 
+## 
 
