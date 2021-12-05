@@ -18,3 +18,22 @@ ICF-Classification:
 - binocular acuity of distant vision: b21000
 - colour vision: b21021
 - contrast sensitivity: b21022
+
+## AsTeRICs Grid
+TEXT WAS IST Asterics grid
+
+# BILD
+TEXT ZU BILD
+# BILD
+TEXT ZU BILD
+# BILD
+TEXT ZU BILD
+# BILD
+TEXT ZU BILD
+# BILD
+TEXT ZU BILD
+# BILD
+TEXT ZU BILD
+# BILD
+
+
