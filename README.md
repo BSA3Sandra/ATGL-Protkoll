@@ -46,13 +46,33 @@ TEXT WAS IST Asterics grid
 # HIER TEXT/BILD
 
 ### Beschreibung: IR-Trans
-# HIER TEXT/BILD
-# HIER TEXT/BILD
+Das IR Trans ist ein Modul zum Einstellen und auslesen von Infrarot Signalen. Zur sinnvollen Inbetriebnahme wurden zuerst die Eigenschaften des IR-Trans Modules überprüft. Bei der Installation der Software traten einige Fehlermeldungen auf und die Software ließ sich nicht starten. Erst ein Neustart vom Rechner löste die Probleme.
+
 ### Konfiguration
-# HIER TEXT/BILD
-# HIER TEXT/BILD
+
+![](Images_Schlafzimmer/IR_prop.jpeg)
+
+Danach wurde als erster Versuch ein IR Signal eingelesen.
+
+![](Images_Schlafzimmer/IR_on.jpeg)
+
+Dieses wurde gleich wieder ausgegeben.
+
+![](Images_Schlafzimmer/IR_send.jpeg)
+
+Mit Erfolg
+
 ### Anwendung
-# HIER TEXT/BILD
+
+![](Images_Schlafzimmer/TV_on.jpeg)
+
+Nun musste das System nur noch an das Asterics-Grid angepasst werden. Dazu wurden in der ARE einige Parameter (wie unten zu sehen) verändert.
+
+![](Images_Schlafzimmer/IR_ast.jpeg)
+
+Des weiteren wurde das Grid noch mit einer Action ausgestattet.
+
+![](Images_Schlafzimmer/IR_grid.jpeg)
 
 ## Accesibility
 # Kurzer Text
