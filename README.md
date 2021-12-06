@@ -33,8 +33,6 @@ TEXT WAS IST Asterics grid
 ![](Images_Grid_SZ/05_TemperaturMain_Grid.jpg)
 # TEXT ZU BILD
 
-
-
 ## Eingabegerät - Tobii & IR-Trans
 ### Beschreibung: Tobii
 # HIER TEXT/BILD
@@ -75,9 +73,11 @@ Des weiteren wurde das Grid noch mit einer Action ausgestattet.
 ![](Images_Schlafzimmer/IR_grid.jpeg)
 
 ## Accesibility
-# Kurzer Text
+
+## Wie was wovon
+
 ### Farbeinstellungen
-# TEXT
+
 ![](Images_Schlafzimmer/1.jpeg)
       Einstellung für Rot-Grün Schwäche(Protanopie)
       
