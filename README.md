@@ -78,15 +78,47 @@ Des weiteren wurde das Grid noch mit einer Action ausgestattet.
 # Kurzer Text
 ### Farbeinstellungen
 # TEXT
-![](Images_Schlafzimmer/image0.jpeg)
-# TEXT
-![](Images_Schlafzimmer/image2.jpeg)
-# TEXT
-![](Images_Schlafzimmer/image3.jpeg)
-# TEXT
-![](Images_Schlafzimmer/image4.jpeg)
-# TEXT
-![](Images_Schlafzimmer/image5.jpeg)
+![](Images_Schlafzimmer/1.jpeg)
+      Einstellung für Rot-Grün Schwäche(Protanopie)
+      
+Bei den Farbfiltereinstellungen besteht die Möglichkeit den Laptop auf drei mögliche Sehschwächen einzustellen(Deuteranopie,Protanopie und Tritanopie). Für uns ist die Einstellung für Protanopie wichtig, da unsere Klientin an dieser Schwäche leidet.
+
+### Kontrasteinstellungen
+
+![](Images_Schlafzimmer/2.jpeg)
+      Kontrast(Grundeinstellungen)
+
+![](Images_Schlafzimmer/3.jpeg)
+      Abbildung 5:Kontraständerung(Nr.1) 
+
+![](Images_Schlafzimmer/4.jpeg)
+      Abbildung 5:Kontraständerung(Nr.2)
+      
+![](Images_Schlafzimmer/5.jpeg)
+      Kontraständerung(Weiß)
+      
+![](Images_Schlafzimmer/6.jpeg)
+      Abbildung 7:Kontraständerung(Schwarz)
+      
+Bei den Kontrasteinstellung gibt es vier verschiedene Auswahlmöglichkeiten für die Klientin. Man hat die Möglichkeit zwischen Kontrast Nr.1, Kontrast Nr.2, Schwarz und Weiß zu wählen.  
+
+![](Images_Schlafzimmer/7.jpeg)
+      Individuelle Anpassungen
+Außerdem kann die Kontraständerung individuell auf die Klientin angepasst werden.
+
 ### Mauszeiger - Einstellungen
-# TEXTE + BILDER
+
+![](Images_Schlafzimmer/8.jpeg)
+      Mauszeiger(Grundeinstellungen)
+      
+![](Images_Schlafzimmer/9.jpeg)  
+      Änderung der Zeigerfarbe
+      
+![](Images_Schlafzimmer/10.jpeg)
+      Erweiterte Farbeinstellungen
+      
+![](Images_Schlafzimmer/11.jpeg)
+      Einstellung Mauszeigergröße
+      
+Bei den Einstellungen für den Mauszeiger gibt es einige Möglichkeiten zur personalisierten Einstellung. Die Größe des Mauszeigers kann durch Verschieben des gegebenen Balkens verändert werden. Außerdem ist es möglich, die Farbe des Mauszeigers zu ändern. Man kann von Weiß auf Schwarz wechseln, zusätzlich hat man noch die Möglichkeit jede mögliche Farbe anzupassen. In unserem Fall, spielt die Einstellung der Größe und der Farben eine große Rolle, da unsere Klientin Buchstaben nur in dreifacher Größe erkennt(gilt dementsprechend auch für den Mauszeiger) und an einer Protanopie leidet.
 
