@@ -43,7 +43,7 @@ Der Tobii-Eye-Tracker ist ein Eingabegerät, welches mithilfe einer Augensteueru
 ### Anwendung: Tobii-Eye-Tracker
 Dabei kann sowohl eingestellt werden, dass die Maus erst nach der Eingabe bewegt wird oder ein Trace am Bildschirm zu sehen ist welche Information über die derzeitige Mausposition gibt.
 
-![](mages_Schlafzimmer/tracer.PNG)
+![](Images_Schlafzimmer/tracer.PNG)
 
 
 ### Beschreibung: IR-Trans
