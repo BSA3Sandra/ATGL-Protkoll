@@ -33,15 +33,18 @@ TEXT WAS IST Asterics grid
 ![](Images_Grid_SZ/05_TemperaturMain_Grid.jpg)
 # TEXT ZU BILD
 
-## Eingabegerät - Tobii & IR-Trans
-### Beschreibung: Tobii
-# HIER TEXT/BILD
-# HIER TEXT/BILD
-### Konfiguration
-# HIER TEXT/BILD
-# HIER TEXT/BILD
-### Anwendung
-# HIER TEXT/BILD
+## Eingabegerät - Tobii-Eye-Tracker & IR-Trans
+
+### Beschreibung: Tobii-Eye-Tracker
+Der Tobii-Eye-Tracker ist ein Eingabegerät, welches mithilfe einer Augensteuerung den Mauszeiger bewegen kann. es muss zuerst an die Augen angepasst werden und am Laptop montiert werden.
+
+![](Images_Schlafzimmer/Einstellung.jpeg)
+
+### Anwendung: Tobii-Eye-Tracker
+Dabei kann sowohl eingestellt werden, dass die Maus erst nach der Eingabe bewegt wird oder ein Trace am Bildschirm zu sehen ist welche Information über die derzeitige Mausposition gibt.
+
+![](mages_Schlafzimmer/tracer.jpeg)
+
 
 ### Beschreibung: IR-Trans
 Das IR Trans ist ein Modul zum Einstellen und auslesen von Infrarot Signalen. Zur sinnvollen Inbetriebnahme wurden zuerst die Eigenschaften des IR-Trans Modules überprüft. Bei der Installation der Software traten einige Fehlermeldungen auf und die Software ließ sich nicht starten. Erst ein Neustart vom Rechner löste die Probleme.
@@ -73,8 +76,6 @@ Des weiteren wurde das Grid noch mit einer Action ausgestattet.
 ![](Images_Schlafzimmer/IR_grid.jpeg)
 
 ## Accesibility
-
-## Wie was wovon
 
 ### Farbeinstellungen
 
