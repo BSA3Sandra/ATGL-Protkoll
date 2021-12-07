@@ -33,7 +33,13 @@ TEXT WAS IST Asterics grid
 ![](Images_Grid_SZ/05_TemperaturMain_Grid.jpg)
 # TEXT ZU BILD
 
-## Eingabegerät - Tobii-Eye-Tracker & IR-Trans
+## Ein/Ausgabegerät -  FABI & Tobii-Eye-Tracker & IR-Trans
+
+### Beschreibung FABI
+
+Bei der Einstellung des Fabii achteten wir darauf, dass das FABI extra für den Eye Tracker von Tobii ausgelegt war.
+
+![](Images_Grid_SZ/Bild3.PNG)
 
 ### Beschreibung: Tobii-Eye-Tracker
 Der Tobii-Eye-Tracker ist ein Eingabegerät, welches mithilfe einer Augensteuerung den Mauszeiger bewegen kann. es muss zuerst an die Augen angepasst werden und am Laptop montiert werden.
