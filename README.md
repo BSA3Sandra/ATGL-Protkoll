@@ -38,12 +38,12 @@ TEXT WAS IST Asterics grid
 ### Beschreibung: Tobii-Eye-Tracker
 Der Tobii-Eye-Tracker ist ein Eingabegerät, welches mithilfe einer Augensteuerung den Mauszeiger bewegen kann. es muss zuerst an die Augen angepasst werden und am Laptop montiert werden.
 
-![](Images_Schlafzimmer/Einstellung.jpeg)
+![](Images_Schlafzimmer/Einstellung.PNG)
 
 ### Anwendung: Tobii-Eye-Tracker
 Dabei kann sowohl eingestellt werden, dass die Maus erst nach der Eingabe bewegt wird oder ein Trace am Bildschirm zu sehen ist welche Information über die derzeitige Mausposition gibt.
 
-![](mages_Schlafzimmer/tracer.jpeg)
+![](mages_Schlafzimmer/tracer.PNG)
 
 
 ### Beschreibung: IR-Trans
