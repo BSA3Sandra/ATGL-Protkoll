@@ -52,6 +52,13 @@ Dabei kann sowohl eingestellt werden, dass die Maus erst nach der Eingabe bewegt
 ![](Images_Schlafzimmer/tracer.PNG)
 
 
+### FittsTask2D
+Um die Anforderungen an unser System zu überprüfen führten wir außerdem die FittsTask Evaluierung durch. Dabei haben wir zuerst die Software gedownloaded und weiters die 9 verschiedenen Übungen durchgeführt. Dabei entstand folgendes Ergebnis:
+
+![](Images_Grid_SZ/Fitts_Task2D_ev.jpeg)
+
+
+
 ### Beschreibung: IR-Trans
 Das IR Trans ist ein Modul zum Einstellen und auslesen von Infrarot Signalen. Zur sinnvollen Inbetriebnahme wurden zuerst die Eigenschaften des IR-Trans Modules überprüft. Bei der Installation der Software traten einige Fehlermeldungen auf und die Software ließ sich nicht starten. Erst ein Neustart vom Rechner löste die Probleme.
 
