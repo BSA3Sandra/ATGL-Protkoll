@@ -3,7 +3,7 @@
 ## Use Case - Sandra
 #
 ### Aufgabenstellung
-Unsere Aufgabe war es mithilfe assistiver Technologien Sandra zu helfen ihr tägliches Leben zu gestalten. Dabei war die Aufgabe unserer Gruppe das Schlafzimmer sinnvoll zu gestalten.
+TEXT
 #
 ### Klientin: Sandra
 Diese Klientin leidet an körperlichen Einschränkungen, die mit einer starken Seh- beeinträchtigung einhergeht. Des Weiteren kann sie Buchstaben nur in dreifacher Größe erkennen und benötigt aufgrund einer Rotsehschwäche (Protanopie) besondere Einstellungen am PC bzw. Laptop. Wir möchten versuchen, ihr mit den technischen Mitteln, die uns zur Verfügung stehen, zu helfen.
@@ -20,25 +20,23 @@ ICF-Classification:
 - contrast sensitivity: b21022
 
 ## AsTeRICs Grid
-TEXT WAS IST Asterics grid: Asterics Grid ein flexibles User-Interface, dass unabhängig von außenstehenden Plattformen ist. Es kann für unterstützende Kommunikation oder Smart Home Funnktionen verwendet werden.
+Asterics Grid ein flexibles User-Interface, dass unabhängig von außenstehenden Plattformen ist. Es kann für unterstützende Kommunikation oder Smart Home Funnktionen, idealerweise beides gleichzeitig, verwendet werden. Es ist möglich, simple und auch komplexe Funktionen für die Benutzeroberfläche zu implementieren, somit sind der Kreativität keine Grenzen gesetzt. Die Verwendung ist für alle ausgerichtet. Durch Scanning wird eine einfache Benutzung für Menschen mit motorischen Einschränkungen ermöglicht.
 
 ![](Images_Grid_SZ/01_Main_Grid.jpg)
-# TEXT ZU BILD
+# In dem Bild sieht man das Startmenü unseres Grids. Es stehen fünf Auswahlmöglichkeiten zur Verfügung. Wohnzimmer, Schlafzimmer und Küche führen zu den erweiterten Einstellungen dieser Bereiche. Die "Zurück"-Option führt zum vorherigen Menü zurück. Der "Start"-Button leitet den Benutzer zum Startmenü zurück.
 ![](Images_Grid_SZ/02_MainSZ_Grid.jpg)
-# TEXT ZU BILD
+# In diesem Bild werden die erweiterten Funktionen des Schlafzimmers dargestellt. Der Benutzer hat die Möglichkeit das Licht ein- und auszuschalten. Die Jalousien können hoch- und runtergefahren bzw. zum beliebigen Zeitpunkt gestoppt werden. Außerdem gibt es noch drei erweiterte Optionen für die Temperatur- und Helligkeitseinstellungen, Radiosteuerung und TV-Steuerung.                   
 ![](Images_Grid_SZ/03_SZmediensteuerung_Grid.jpg)
-# TEXT ZU BILD
+# In diesem Bild werden die erweiterten Einstellungen für den Medienbereich des Schlafzimmers verdeutlicht. Es besteht die Möglichkeit die erweiterten Einstellungen für den TV bzw. für das Radio zu öffnen. Außerem kann man eine angeschlossene Konsole (z.B.: Playstation) ein- und ausschalten.
 ![](Images_Grid_SZ/04_LichtDimmenMain_Grid.jpg)
-# TEXT ZU BILD
+# Hier werden die Helligkeitseinstellungen für Schlaf- und Wohnzimmer dargestellt. In der ersten Spalte besteht die Möglichkeit das Licht im Schlafzimmer ein- oder ausschalten oder es auf einen gewissen Prozentsatz zu dimmen. In unserem Fall auf 35 oder 65 Prozent Helligkeit. Für das Wohnzimmer stehen die gleichen Optionen zur Verfügung. In der mittleren Spalte kann man Küchenspot und sa Licht für den Esstisch ein- und ausschalten.
 ![](Images_Grid_SZ/05_TemperaturMain_Grid.jpg)
-# TEXT ZU BILD
-
+# In diesem Bild werden die Temperatureinstellungen dargestellt. Man hat die Auswahl zwischen drei Wolhfühltemperaturen (20°C,22°C,24°C). Falls diese dem persönlichen Bedürfnis nicht entsprechen, kann man die Heizung über die unteren Buttons anpassen. 
 ## Ein/Ausgabegerät -  FABI & Tobii-Eye-Tracker & IR-Trans
 
 ### Beschreibung FABI
-![](Images_Grid_SZ/Fabii.jpeg)
 
-Bei der Einstellung des Fabii achteten wir darauf, dass das FABI extra für den Eye Tracker von Tobii ausgelegt war. Dabei war der rote Button (der Größere von den beiden) die Space taste, da Tobi einzig mit dieser Einstellung sinnvoll genutzt werden konnte.
+Bei der Einstellung des Fabii achteten wir darauf, dass das FABI extra für den Eye Tracker von Tobii ausgelegt war.
 
 ![](Images_Schlafzimmer/Bild3.PNG)
 
@@ -51,13 +49,6 @@ Der Tobii-Eye-Tracker ist ein Eingabegerät, welches mithilfe einer Augensteueru
 Dabei kann sowohl eingestellt werden, dass die Maus erst nach der Eingabe bewegt wird oder ein Trace am Bildschirm zu sehen ist welche Information über die derzeitige Mausposition gibt.
 
 ![](Images_Schlafzimmer/tracer.PNG)
-
-
-### FittsTask2D
-Um die Anforderungen an unser System zu überprüfen führten wir außerdem die FittsTask Evaluierung durch. Dabei haben wir zuerst die Software gedownloaded und weiters die 9 verschiedenen Übungen durchgeführt. Dabei entstand folgendes Ergebnis:
-
-![](Images_Grid_SZ/Tobii_Fritts_task2D_ev.jpeg)
-
 
 
 ### Beschreibung: IR-Trans
@@ -89,19 +80,7 @@ Des weiteren wurde das Grid noch mit einer Action ausgestattet.
 
 ![](Images_Schlafzimmer/IR_grid.jpeg)
 
-
-## Accesibility am Handy
-
-Um das Handy zu steuern verwendeten wir die eingebaute Sprachsteuerung des Handys. Dabei war Siri besonders hilfreich beim SMS schreiben und beim surfen. 
-
-
-![](Images_Grid_SZ/Siri.jpeg)
-
-
-Wir versuchten außerdem das Fabii mit dem Handy zu verbinden, scheiterten aber da Fabi nicht vom Handy als assistives Eingabegerät erkannt wurde. Man konnte sich lediglich mit bluetooth verbinden jedoch nichts dezitiertes mit dem Gerät machen.
-
-
-## Accesibility am Computer
+## Accesibility
 
 ### Farbeinstellungen
 
@@ -117,6 +96,12 @@ Bei den Farbfiltereinstellungen besteht die Möglichkeit den Laptop auf drei mö
 
 ![](Images_Schlafzimmer/3.jpeg)
       Abbildung 5:Kontraständerung(Nr.1) 
+
+![](Images_Schlafzimmer/4.jpeg)
+      Abbildung 5:Kontraständerung(Nr.2)
+      
+![](Images_Schlafzimmer/5.jpeg)
+      Kontraständerung(Weiß)
       
 ![](Images_Schlafzimmer/6.jpeg)
       Abbildung 7:Kontraständerung(Schwarz)
@@ -131,7 +116,9 @@ Außerdem kann die Kontraständerung individuell auf die Klientin angepasst werd
 
 ![](Images_Schlafzimmer/8.jpeg)
       Mauszeiger(Grundeinstellungen)
- 
+      
+![](Images_Schlafzimmer/9.jpeg)  
+      Änderung der Zeigerfarbe
       
 ![](Images_Schlafzimmer/10.jpeg)
       Erweiterte Farbeinstellungen
@@ -141,28 +128,7 @@ Außerdem kann die Kontraständerung individuell auf die Klientin angepasst werd
       
 Bei den Einstellungen für den Mauszeiger gibt es einige Möglichkeiten zur personalisierten Einstellung. Die Größe des Mauszeigers kann durch Verschieben des gegebenen Balkens verändert werden. Außerdem ist es möglich, die Farbe des Mauszeigers zu ändern. Man kann von Weiß auf Schwarz wechseln, zusätzlich hat man noch die Möglichkeit jede mögliche Farbe anzupassen. In unserem Fall, spielt die Einstellung der Größe und der Farben eine große Rolle, da unsere Klientin Buchstaben nur in dreifacher Größe erkennt(gilt dementsprechend auch für den Mauszeiger) und an einer Protanopie leidet.
 
-## Aufbau
+### Aufbau
 
 Beim Aufbau achteten wir besonders darauf, dass das System leicht zu bedienen und leicht zugänglich war. Dabei wurde der Rollstuhl extra dafür prepariert. Dieser wurde mit einem Laptop ausgestattet, welcher mit den ein und Ausgabegeräten verbunden war. An diesem wurde zum Beispiel das Fabii und der Tobii Eye tracker angebracht. Mit diesem Aufbau konnte der gesamte Wohnbereich befahren werden und so ein einfaches bedienen möglich gemacht.
 
-#### Inbetriebnahme
-![](Images_Grid_SZ/Images_Grid_SZ/Stuhl.jpeg)
-
-#### In Verwednung
-![](Images_Grid_SZ/Images_Grid_SZ/InVerwendung.jpeg)
-
-
-
-## Ergebnis
-
-Mithilfe des Tobii Eye trackers und dem Fabii konnte die Userin Sandra zum Beispiel Klavier spielen oder eine Email schreiben. 
-
-Email
-![](Images_Grid_SZ/Email.PNG)
-
-
-
-
-
-Klavier
-![](Images_Grid_SZ/Klavier.PNG)
