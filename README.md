@@ -37,7 +37,7 @@ TEXT WAS IST Asterics grid: Asterics Grid ein flexibles User-Interface, dass una
 
 ### Beschreibung FABI
 
-Bei der Einstellung des Fabii achteten wir darauf, dass das FABI extra für den Eye Tracker von Tobii ausgelegt war.
+Bei der Einstellung des Fabii achteten wir darauf, dass das FABI extra für den Eye Tracker von Tobii ausgelegt war. Dabei war der rote Button (der Größere von den beiden) die Space taste, da Tobi einzig mit dieser Einstellung sinnvoll genutzt werden konnte.
 
 ![](Images_Schlafzimmer/Bild3.PNG)
 
