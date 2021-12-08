@@ -76,16 +76,6 @@ Dieses wurde gleich wieder ausgegeben.
 
 Mit Erfolg
 
-## Einstellungen am Handy
-
-Für die Handy einstellungen verwendeten wir das Apple eigene Siri, mit welchem man problemlos Sms und Emails schreiben konnte.
-
-![](Images_Grid_SZ/Siri.jpeg)
-
-Das Fabii wurde auch hier versucht einzustellen leider ohne Erfolg, da es vom Handy zwar erkannt, jedoch nicht als Eingabehilfegerät klassifiziert wurde. 
-
-## Einstellungen am Computer
-
 ![](Images_Schlafzimmer/TV_on.jpeg)
 
 Nun musste das System nur noch an das Asterics-Grid angepasst werden. Dazu wurden in der ARE einige Parameter (wie unten zu sehen) verändert.
@@ -96,7 +86,17 @@ Des weiteren wurde das Grid noch mit einer Action ausgestattet.
 
 ![](Images_Schlafzimmer/IR_grid.jpeg)
 
-## Accesibility
+
+## Einstellungen am Handy
+
+Für die Handy einstellungen verwendeten wir das Apple eigene Siri, mit welchem man problemlos Sms und Emails schreiben konnte.
+
+![](Images_Grid_SZ/Siri.jpeg)
+
+Das Fabii wurde auch hier versucht einzustellen leider ohne Erfolg, da es vom Handy zwar erkannt, jedoch nicht als Eingabehilfegerät klassifiziert wurde. 
+
+
+## Einstellungen am Computer
 
 ### Farbeinstellungen
 
