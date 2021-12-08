@@ -145,4 +145,6 @@ Beim Aufbau achteten wir besonders darauf, dass das System leicht zu bedienen un
 
 Mithilfe des Tobii Eye trackers und dem Fabii konnte die Userin Sandra zum Beispiel Klavier spielen oder eine Email schreiben. 
 
+![](Images_Grid_SZ/Email.jpeg)
 
+![](Images_Grid_SZ/Klavier.jpeg)
