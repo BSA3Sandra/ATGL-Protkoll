@@ -20,7 +20,7 @@ ICF-Classification:
 - contrast sensitivity: b21022
 
 ## AsTeRICs Grid
-TEXT WAS IST Asterics grid
+TEXT WAS IST Asterics grid: Asterics Grid ein flexibles User-Interface, dass unabhängig von außenstehenden Plattformen ist. Es kann für unterstützende Kommunikation oder Smart Home Funnktionen verwendet werden.
 
 ![](Images_Grid_SZ/01_Main_Grid.jpg)
 # TEXT ZU BILD
