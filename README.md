@@ -88,7 +88,19 @@ Des weiteren wurde das Grid noch mit einer Action ausgestattet.
 
 ![](Images_Schlafzimmer/IR_grid.jpeg)
 
-## Accesibility
+
+## Accesibility am Handy
+
+Um das Handy zu steuern verwendeten wir die eingebaute Sprachsteuerung des Handys. Dabei war Siri besonders hilfreich beim SMS schreiben und beim surfen. 
+
+
+![](Images_Grid_SZ/Klavietrr.PNG)
+
+
+Wir versuchten außerdem das Fabii mit dem Handy zu verbinden, scheiterten aber da Fabi nicht vom Handy als assistives Eingabegerät erkannt wurde. Man konnte sich lediglich mit bluetooth verbinden jedoch nichts dezitiertes mit dem Gerät machen.
+
+
+## Accesibility am Computer
 
 ### Farbeinstellungen
 
@@ -136,19 +148,19 @@ Außerdem kann die Kontraständerung individuell auf die Klientin angepasst werd
       
 Bei den Einstellungen für den Mauszeiger gibt es einige Möglichkeiten zur personalisierten Einstellung. Die Größe des Mauszeigers kann durch Verschieben des gegebenen Balkens verändert werden. Außerdem ist es möglich, die Farbe des Mauszeigers zu ändern. Man kann von Weiß auf Schwarz wechseln, zusätzlich hat man noch die Möglichkeit jede mögliche Farbe anzupassen. In unserem Fall, spielt die Einstellung der Größe und der Farben eine große Rolle, da unsere Klientin Buchstaben nur in dreifacher Größe erkennt(gilt dementsprechend auch für den Mauszeiger) und an einer Protanopie leidet.
 
-### Aufbau
+## Aufbau
 
 Beim Aufbau achteten wir besonders darauf, dass das System leicht zu bedienen und leicht zugänglich war. Dabei wurde der Rollstuhl extra dafür prepariert. Dieser wurde mit einem Laptop ausgestattet, welcher mit den ein und Ausgabegeräten verbunden war. An diesem wurde zum Beispiel das Fabii und der Tobii Eye tracker angebracht. Mit diesem Aufbau konnte der gesamte Wohnbereich befahren werden und so ein einfaches bedienen möglich gemacht.
 
-##### Aufbau
+#### Inbetriebnahme
 ![](Images_Grid_SZ/Images_Grid_SZ/Stuhl.jpeg)
 
-##### In Verwednung
+#### In Verwednung
 ![](Images_Grid_SZ/Images_Grid_SZ/InVerwendung.jpeg)
 
 
 
-### Ergebnis
+## Ergebnis
 
 Mithilfe des Tobii Eye trackers und dem Fabii konnte die Userin Sandra zum Beispiel Klavier spielen oder eine Email schreiben. 
 
