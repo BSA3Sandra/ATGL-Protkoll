@@ -55,7 +55,7 @@ Dabei kann sowohl eingestellt werden, dass die Maus erst nach der Eingabe bewegt
 ### FittsTask2D
 Um die Anforderungen an unser System zu überprüfen führten wir außerdem die FittsTask Evaluierung durch. Dabei haben wir zuerst die Software gedownloaded und weiters die 9 verschiedenen Übungen durchgeführt. Dabei entstand folgendes Ergebnis:
 
-![](Images_Grid_SZ/Fitts_Task2D_ev.jpeg)
+![](Images_Grid_SZ/Tobii_Fritts_task2D_ev.jpeg)
 
 
 
