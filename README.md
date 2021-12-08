@@ -129,6 +129,7 @@ Außerdem kann die Kontraständerung individuell auf die Klientin angepasst werd
       
 Bei den Einstellungen für den Mauszeiger gibt es einige Möglichkeiten zur personalisierten Einstellung. Die Größe des Mauszeigers kann durch Verschieben des gegebenen Balkens verändert werden. Außerdem ist es möglich, die Farbe des Mauszeigers zu ändern. Man kann von Weiß auf Schwarz wechseln, zusätzlich hat man noch die Möglichkeit jede mögliche Farbe anzupassen. In unserem Fall, spielt die Einstellung der Größe und der Farben eine große Rolle, da unsere Klientin Buchstaben nur in dreifacher Größe erkennt(gilt dementsprechend auch für den Mauszeiger) und an einer Protanopie leidet.
 
-##Aufbau
+###Aufbau
+
 Beim Aufbau achteten wir besonders darauf, dass das System leicht zu bedienen und leicht zugänglich war. Dabei wurde der Rollstuhl extra dafür prepariert. Dieser wurde mit einem Laptop ausgestattet, welcher mit den ein und Ausgabegeräten verbunden war. An diesem wurde zum Beispiel das Fabii und der Tobii Eye tracker angebracht. Mit diesem Aufbau konnte der gesamte Wohnbereich befahren werden und so ein einfaches bedienen möglich gemacht.
 
