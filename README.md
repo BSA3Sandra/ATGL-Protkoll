@@ -27,11 +27,11 @@ Asterics Grid ein flexibles User-Interface, dass unabhängig von außenstehenden
 ![](Images_Grid_SZ/02_MainSZ_Grid.jpg)
 # In diesem Bild werden die erweiterten Funktionen des Schlafzimmers dargestellt. Der Benutzer hat die Möglichkeit das Licht ein- und auszuschalten. Die Jalousien können hoch- und runtergefahren bzw. zum beliebigen Zeitpunkt gestoppt werden. Außerdem gibt es noch drei erweiterte Optionen für die Temperatur- und Helligkeitseinstellungen, Radiosteuerung und TV-Steuerung.                   
 ![](Images_Grid_SZ/03_SZmediensteuerung_Grid.jpg)
-# In diesem Bild werden die erweiterten Einstellungen für den Medienbereich des Schlafzimmers verdeutlicht. Es besteht die Möglichkeit die erweiterten Einstellungen für den TV bzw. für das Radio zu öffnen. Außerem kann man eine angeschlossene Konsole (z.B.: Playstation) ein- und ausschalten.
+In diesem Bild werden die erweiterten Einstellungen für den Medienbereich des Schlafzimmers verdeutlicht. Es besteht die Möglichkeit die erweiterten Einstellungen für den TV bzw. für das Radio zu öffnen. Außerem kann man eine angeschlossene Konsole (z.B.: Playstation) ein- und ausschalten.
 ![](Images_Grid_SZ/04_LichtDimmenMain_Grid.jpg)
-# Hier werden die Helligkeitseinstellungen für Schlaf- und Wohnzimmer dargestellt. In der ersten Spalte besteht die Möglichkeit das Licht im Schlafzimmer ein- oder ausschalten oder es auf einen gewissen Prozentsatz zu dimmen. In unserem Fall auf 35 oder 65 Prozent Helligkeit. Für das Wohnzimmer stehen die gleichen Optionen zur Verfügung. In der mittleren Spalte kann man Küchenspot und sa Licht für den Esstisch ein- und ausschalten.
+Hier werden die Helligkeitseinstellungen für Schlaf- und Wohnzimmer dargestellt. In der ersten Spalte besteht die Möglichkeit das Licht im Schlafzimmer ein- oder ausschalten oder es auf einen gewissen Prozentsatz zu dimmen. In unserem Fall auf 35 oder 65 Prozent Helligkeit. Für das Wohnzimmer stehen die gleichen Optionen zur Verfügung. In der mittleren Spalte kann man Küchenspot und sa Licht für den Esstisch ein- und ausschalten.
 ![](Images_Grid_SZ/05_TemperaturMain_Grid.jpg)
-# In diesem Bild werden die Temperatureinstellungen dargestellt. Man hat die Auswahl zwischen drei Wolhfühltemperaturen (20°C,22°C,24°C). Falls diese dem persönlichen Bedürfnis nicht entsprechen, kann man die Heizung über die unteren Buttons anpassen. 
+In diesem Bild werden die Temperatureinstellungen dargestellt. Man hat die Auswahl zwischen drei Wolhfühltemperaturen (20°C,22°C,24°C). Falls diese dem persönlichen Bedürfnis nicht entsprechen, kann man die Heizung über die unteren Buttons anpassen. 
 ## Ein/Ausgabegerät -  FABI & Tobii-Eye-Tracker & IR-Trans
 
 ### Beschreibung FABI
