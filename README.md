@@ -116,12 +116,6 @@ Bei den Farbfiltereinstellungen besteht die Möglichkeit den Laptop auf drei mö
 
 ![](Images_Schlafzimmer/3.jpeg)
       Abbildung 5:Kontraständerung(Nr.1) 
-
-![](Images_Schlafzimmer/4.jpeg)
-      Abbildung 5:Kontraständerung(Nr.2)
-      
-![](Images_Schlafzimmer/5.jpeg)
-      Kontraständerung(Weiß)
       
 ![](Images_Schlafzimmer/6.jpeg)
       Abbildung 7:Kontraständerung(Schwarz)
@@ -136,9 +130,7 @@ Außerdem kann die Kontraständerung individuell auf die Klientin angepasst werd
 
 ![](Images_Schlafzimmer/8.jpeg)
       Mauszeiger(Grundeinstellungen)
-      
-![](Images_Schlafzimmer/9.jpeg)  
-      Änderung der Zeigerfarbe
+ 
       
 ![](Images_Schlafzimmer/10.jpeg)
       Erweiterte Farbeinstellungen
