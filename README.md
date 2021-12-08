@@ -141,10 +141,10 @@ Beim Aufbau achteten wir besonders darauf, dass das System leicht zu bedienen un
 Als Ergebnis ließen wir die Userin Sandra sowohl eine Email schreiben als auch am online Klavier spielen
 
 Klavier:
-![](Images_Grid_SZ/Klavier.jpeg)
+![](Images_Grid_SZ/Klavier.PNG)
 
 
 
-Email
-![](Images_Grid_SZ/Email.jpeg)
+Email:
+![](Images_Grid_SZ/Email.PNG)
 
