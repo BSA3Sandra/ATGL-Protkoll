@@ -50,6 +50,12 @@ Dabei kann sowohl eingestellt werden, dass die Maus erst nach der Eingabe bewegt
 
 ![](Images_Schlafzimmer/tracer.PNG)
 
+### FittsTask2D
+
+Um die Anforderungen, die an die Steuerung gestellt werden zu testen, wurde eine FittsTask evaluierung vorgenommen. Dies sind die Ergebnisse jener.
+
+![](Images_Grid_SZ/Fabii_Fitts_task_ev.jpeg)
+
 
 ### Beschreibung: IR-Trans
 Das IR Trans ist ein Modul zum Einstellen und auslesen von Infrarot Signalen. Zur sinnvollen Inbetriebnahme wurden zuerst die Eigenschaften des IR-Trans Modules überprüft. Bei der Installation der Software traten einige Fehlermeldungen auf und die Software ließ sich nicht starten. Erst ein Neustart vom Rechner löste die Probleme.
@@ -68,7 +74,11 @@ Dieses wurde gleich wieder ausgegeben.
 
 Mit Erfolg
 
-### Anwendung
+## Einstellungen am Handy
+
+![](Images_Grid_SZ/Siri.jpeg)
+
+## Einstellungen am Computer
 
 ![](Images_Schlafzimmer/TV_on.jpeg)
 
@@ -97,12 +107,6 @@ Bei den Farbfiltereinstellungen besteht die Möglichkeit den Laptop auf drei mö
 ![](Images_Schlafzimmer/3.jpeg)
       Abbildung 5:Kontraständerung(Nr.1) 
 
-![](Images_Schlafzimmer/4.jpeg)
-      Abbildung 5:Kontraständerung(Nr.2)
-      
-![](Images_Schlafzimmer/5.jpeg)
-      Kontraständerung(Weiß)
-      
 ![](Images_Schlafzimmer/6.jpeg)
       Abbildung 7:Kontraständerung(Schwarz)
       
@@ -117,11 +121,6 @@ Außerdem kann die Kontraständerung individuell auf die Klientin angepasst werd
 ![](Images_Schlafzimmer/8.jpeg)
       Mauszeiger(Grundeinstellungen)
       
-![](Images_Schlafzimmer/9.jpeg)  
-      Änderung der Zeigerfarbe
-      
-![](Images_Schlafzimmer/10.jpeg)
-      Erweiterte Farbeinstellungen
       
 ![](Images_Schlafzimmer/11.jpeg)
       Einstellung Mauszeigergröße
@@ -135,4 +134,17 @@ Beim Aufbau achteten wir besonders darauf, dass das System leicht zu bedienen un
 ![](Images_Grid_SZ/Images_Grid_SZ/Stuhl.jpeg)
 
 ![](Images_Grid_SZ/Images_Grid_SZ/InVerwendung.jpeg)
+
+
+## Ergebnis
+
+Als Ergebnis ließen wir die Userin Sandra sowohl eine Email schreiben als auch am online Klavier spielen
+
+Klavier:
+![](Images_Grid_SZ/Klavier.jpeg)
+
+
+
+Email
+![](Images_Grid_SZ/Email.jpeg)
 
