@@ -94,7 +94,7 @@ Des weiteren wurde das Grid noch mit einer Action ausgestattet.
 Um das Handy zu steuern verwendeten wir die eingebaute Sprachsteuerung des Handys. Dabei war Siri besonders hilfreich beim SMS schreiben und beim surfen. 
 
 
-![](Images_Grid_SZ/Klavietrr.PNG)
+![](Images_Grid_SZ/Siri.jpeg)
 
 
 Wir versuchten außerdem das Fabii mit dem Handy zu verbinden, scheiterten aber da Fabi nicht vom Handy als assistives Eingabegerät erkannt wurde. Man konnte sich lediglich mit bluetooth verbinden jedoch nichts dezitiertes mit dem Gerät machen.
