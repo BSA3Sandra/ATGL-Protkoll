@@ -132,3 +132,7 @@ Bei den Einstellungen für den Mauszeiger gibt es einige Möglichkeiten zur pers
 
 Beim Aufbau achteten wir besonders darauf, dass das System leicht zu bedienen und leicht zugänglich war. Dabei wurde der Rollstuhl extra dafür prepariert. Dieser wurde mit einem Laptop ausgestattet, welcher mit den ein und Ausgabegeräten verbunden war. An diesem wurde zum Beispiel das Fabii und der Tobii Eye tracker angebracht. Mit diesem Aufbau konnte der gesamte Wohnbereich befahren werden und so ein einfaches bedienen möglich gemacht.
 
+![](Images_Grid_SZ/Stuhl)
+
+![](Images_Grid_SZ/InVerwendung)
+
