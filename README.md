@@ -3,7 +3,7 @@
 ## Use Case - Sandra
 #
 ### Aufgabenstellung
-TEXT
+Unsere Aufgabe war es der Userin Sandra eine leicht bedienbare Steuerung zu bauen mit derer sie sowohl Musik machen kann als auch die Wohnung steuern kann. 
 #
 ### Klientin: Sandra
 Diese Klientin leidet an körperlichen Einschränkungen, die mit einer starken Seh- beeinträchtigung einhergeht. Des Weiteren kann sie Buchstaben nur in dreifacher Größe erkennen und benötigt aufgrund einer Rotsehschwäche (Protanopie) besondere Einstellungen am PC bzw. Laptop. Wir möchten versuchen, ihr mit den technischen Mitteln, die uns zur Verfügung stehen, zu helfen.
@@ -37,6 +37,8 @@ In diesem Bild werden die Temperatureinstellungen dargestellt. Man hat die Auswa
 ### Beschreibung FABI
 
 Bei der Einstellung des Fabii achteten wir darauf, dass das FABI extra für den Eye Tracker von Tobii ausgelegt war.
+
+![](Images_Grid_SZ/Fabii.jpeg)
 
 ![](Images_Schlafzimmer/Bild3.PNG)
 
@@ -76,7 +78,11 @@ Mit Erfolg
 
 ## Einstellungen am Handy
 
+Für die Handy einstellungen verwendeten wir das Apple eigene Siri, mit welchem man problemlos Sms und Emails schreiben konnte.
+
 ![](Images_Grid_SZ/Siri.jpeg)
+
+Das Fabii wurde auch hier versucht einzustellen leider ohne Erfolg, da es vom Handy zwar erkannt, jedoch nicht als Eingabehilfegerät klassifiziert wurde. 
 
 ## Einstellungen am Computer
 
@@ -138,7 +144,7 @@ Beim Aufbau achteten wir besonders darauf, dass das System leicht zu bedienen un
 
 ## Ergebnis
 
-Als Ergebnis ließen wir die Userin Sandra sowohl eine Email schreiben als auch am online Klavier spielen
+Als Ergebnis ließen wir die Userin Sandra sowohl eine Email schreiben als auch am online Klavier spielen.
 
 Klavier:
 ![](Images_Grid_SZ/Klavier.PNG)
